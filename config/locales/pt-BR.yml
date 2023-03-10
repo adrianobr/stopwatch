@@ -1,0 +1,17 @@
+"pt-BR":
+    label_stopwatch_start: Contar tempo
+  label_stopwatch_stop: Parar e lançar tempo
+  stopwatch:
+    settings:
+      label_always_ask: 'Todas as tarefas'
+      label_default_activity: 'Contar tempo para quais atividades'
+      label_system: 'Use o sistema padrão'
+  stopwatch_timers:
+    entries_list:
+      button_stop: Parar
+      button_resume: Resumir
+    entry_form:
+      legend_new: Novo tempo
+      legend_edit: Editar tempo
+    edit:
+      button_save_and_continue: Salvar e continuar
